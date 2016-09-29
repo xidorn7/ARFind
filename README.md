@@ -5,4 +5,4 @@ Company Division/Team: Labs
 Company Challenge: How might we enable consumers to enrich their lives by using augmented or mixed reality to surface relevant information while on the go?
 Domain: Ecommerce, Internet of Things, Media, Security, Social Media
 
-Team: Andrew Mendez, Suzie-May, Iris Qu, Martin Chan
+Team: Andrew Mendez, Suzie-Mae, Iris Qu, Martin Chan
