@@ -1,0 +1,134 @@
+Verizon (Labs) Status Report #1
+
+Week behind: 
+Discussed the challenge, unpacked problem
+Developed an initial version of system diagram, then polished it into a simpler version, and identified potential wedge
+Created user journeys individually 
+Andrew and Suzie-May reached out to faculty members for potential interests 
+Created a shared schedule to set up meetings 
+
+Week ahead:
+Meet with company champion to discuss system diagram, expectations and resources
+Discuss user journeys we created individually, identify potential product direction
+Schedule meetings with faculty members who might be interested in the project  
+
+Potential risks:
+We do not yet know what type of hardware we can utilize for our challenge 
+Need to clarify content type / whether the information is passive or active
+We could not find a time slot for team members and company champion to meet together this week, so the meeting was postponed
+
+
+
+
+
+
+
+
+
+Verizon (Labs) Status Report #2
+
+Week behind: 
+Developed each team member’s user stories in greater detail
+Edited system diagram and wedges
+Wrote out mind maps individually to consolidate our thoughts
+Applied Crazy 8 exercise to sketch ideas
+Selected ideas and fleshed them out in more detailed sketches
+Voted on and discussed the best ideas
+Compiled ideas into a conceptual product outline
+
+Week ahead:
+Meet with company champion to discuss system diagram, expectations and resources
+Determine if our conceptual product aligns with new information from company champion
+Reevaluate and return to system diagrams and ideation steps if our conceptual product misses the mark
+Create a rough timeline for creating and building our product
+Organize our schedules and establish work-flow processes
+Schedule meetings with faculty members who might be interested in the project  
+Select scrum-master (Martin volunteered - to be confirmed)
+
+Potential risks:
+We do not yet know what type of hardware we can utilize for our challenge 
+Need to clarify content type / whether the information is passive or active
+We could not find a time slot for team members and company champion to meet together this week, so the meeting was postponed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verizon (Labs) Status Report #3
+
+Week behind: 
+Discussed with company champion on the phone, discussed previous system diagram, wedges, resources and potential research direction
+Created a new set of system diagram and wedges based on the meeting, focusing more on smart city and IOT
+Drew out new user story and narratives based on new system diagram and wedges 
+Drafted and agreed on development process
+Created workflow / progress board with Asana
+Made architecture diagram based on new system diagram
+Created github repo for project
+Meet law students assigned to our team
+
+Week ahead:
+Improve on iterated user story
+Make product sketch based on improved user story
+Make simple prototype 
+Pass smile test with first prototype
+Discuss with company champion about iterated product idea
+
+Potential risks:
+Need to test the idea with company champion before further implementation 
+Need to look for potential dataset for prototyping purposes 
+
+
+Verizon (Labs) Status Report #4
+
+Week behind: 
+Drafted new user story
+Made product sketch based on new user story
+Made simple pretotype 
+Passed smile test with 3 people with first pretotype
+Discuss with company champion about iterated product idea
+Presented our idea at Sprint#1
+
+Week ahead:
+Meet with company champion to discuss pretotype and demo
+Pass additional smile tests
+Tweak our idea
+Plan next steps
+
+Potential risks:
+Market may not be as receptive as we are - need to perform more smile tests and validation
+Technological execution
+
+
+
+Verizon (Labs) Status Report #5
+
+
+Week behind:
+Met with company champion to discuss pretotype and demo - he wil
+Passed additional smile tests
+Tweaked our idea and developed further use cases
+Drafted stakeholders table
+
+Week ahead:
+Attain further validation on potential user groups
+External Crit - add to Crit Findings Log
+Begin User Findings Log
+
+Potential risks:
+Market may not be as receptive as we are - need to perform more smile tests and validation
+Technological execution
+
+
+
+
